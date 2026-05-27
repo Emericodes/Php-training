@@ -43,7 +43,7 @@ $articles = [
 
 <head>
    
-    <title><?= $name; ?> | Le site de news</title>
+    <title><?= $name; ?>  | Le site de news</title>
 </head>
 
 
